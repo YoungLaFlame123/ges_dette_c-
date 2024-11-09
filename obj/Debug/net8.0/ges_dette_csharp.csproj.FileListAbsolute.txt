@@ -1,0 +1,14 @@
+C:\Users\Lenovo\ges_dette_csharp\bin\Debug\net8.0\ges_dette_csharp.exe
+C:\Users\Lenovo\ges_dette_csharp\bin\Debug\net8.0\ges_dette_csharp.deps.json
+C:\Users\Lenovo\ges_dette_csharp\bin\Debug\net8.0\ges_dette_csharp.runtimeconfig.json
+C:\Users\Lenovo\ges_dette_csharp\bin\Debug\net8.0\ges_dette_csharp.dll
+C:\Users\Lenovo\ges_dette_csharp\bin\Debug\net8.0\ges_dette_csharp.pdb
+C:\Users\Lenovo\ges_dette_csharp\obj\Debug\net8.0\ges_dette_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\ges_dette_csharp\obj\Debug\net8.0\ges_dette_csharp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\ges_dette_csharp\obj\Debug\net8.0\ges_dette_csharp.AssemblyInfo.cs
+C:\Users\Lenovo\ges_dette_csharp\obj\Debug\net8.0\ges_dette_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\ges_dette_csharp\obj\Debug\net8.0\ges_dette_csharp.dll
+C:\Users\Lenovo\ges_dette_csharp\obj\Debug\net8.0\refint\ges_dette_csharp.dll
+C:\Users\Lenovo\ges_dette_csharp\obj\Debug\net8.0\ges_dette_csharp.pdb
+C:\Users\Lenovo\ges_dette_csharp\obj\Debug\net8.0\ges_dette_csharp.genruntimeconfig.cache
+C:\Users\Lenovo\ges_dette_csharp\obj\Debug\net8.0\ref\ges_dette_csharp.dll

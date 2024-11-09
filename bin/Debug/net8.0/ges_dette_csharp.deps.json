@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ges_dette_csharp/1.0.0": {
+        "runtime": {
+          "ges_dette_csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ges_dette_csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
